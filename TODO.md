@@ -1,0 +1,20 @@
+- [x] Add `toReact`
+- [x] Add `fromReact`
+- [x] Add react externals docs
+- [x] React 15 SVG attributes
+- [x] Add "mapState" function
+- [x] Add "mapEffects" function
+- [x] Merge `CoreEffects` alias
+- [x] Rewrite examples with array-notation.
+- [ ] Respond to issue with `focused` solution
+- [ ] Rewrite starter app with array-notation.
+- [ ] Update and publish starter app for Pux 3
+
+- [ ] Examples for react interop
+- [ ] Move examples to branches of starter-app repo
+- [ ] starter-app readme gif animation of hot-reload
+- [ ] docs: "Handling effects"
+- [ ] docs: "Advanced usage - controlling focus"
+- [ ] docs: "Advanced usage - delayed actions"
+- [ ] logo
+- [ ] docs: "Elm and PureScript"
